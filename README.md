@@ -1,2 +1,2 @@
-# Proyectos Astro
-Repositorio para mis ejercicios y proyectos de astro en el ciclo.
+# Proyectos Unity
+Repositorio para mis ejercicios y proyectos de unity en el ciclo.
